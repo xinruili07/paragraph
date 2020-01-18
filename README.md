@@ -2,7 +2,7 @@
 
 # Paragraph Tool for Editor.js
 
-Basic text Tool for the [Editor.js](https://ifmo.su/editor).
+Edited text (paragraph) Tool for the [Editor.js] (https://ifmo.su/editor) that allows empty blocks that can be converted to line breaks. This package was made from Editor.js paragraph tool (https://github.com/editor-js/paragraph).
 
 ## Installation
 
@@ -11,13 +11,13 @@ Basic text Tool for the [Editor.js](https://ifmo.su/editor).
 Get the package
 
 ```shell
-npm i --save-dev @editorjs/paragraph
+yarn add @xinruili07/@xinruili07/paragraph-with-line-breaks
 ```
 
 Include module at your application
 
 ```javascript
-const Paragraph = require('@editorjs/paragraph');
+const Paragraph = require('@xinruili07/paragraph-with-line-breaks');
 ```
 
 ### Download to your project's source dir
