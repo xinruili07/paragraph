@@ -123,10 +123,6 @@ class Paragraph {
    * @public
    */
   validate(savedData) {
-    if (savedData.text.trim() === '') {
-      return false;
-    }
-
     return true;
   }
 

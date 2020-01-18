@@ -1,5 +1,5 @@
 {
-  "name": "@editorjs/paragraph",
+  "name": "@xinruili07/paragraph-with-line-breaks",
   "version": "2.6.1",
   "keywords": [
     "codex editor",
@@ -8,17 +8,16 @@
     "editor.js",
     "editorjs"
   ],
-  "description": "Paragraph Tool for Editor.js",
-  "license": "MIT",
-  "repository": "https://github.com/editor-js/paragraph",
+  "description": "Paragraph Tool that allows empty paragraph as line breaks for Editor.js",
+  "repository": "https://github.com/xinruili07/paragraph",
   "main": "./dist/bundle.js",
   "scripts": {
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development --watch"
   },
   "author": {
-    "name": "CodeX",
-    "email": "team@codex.so"
+    "name": "xinruili07",
+    "email": "xin.rui.li@mail.mcgill.com"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
