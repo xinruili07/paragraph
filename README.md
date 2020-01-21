@@ -2,7 +2,7 @@
 
 # Paragraph Tool for Editor.js
 
-Edited text (paragraph) Tool for the [Editor.js] (https://ifmo.su/editor) that allows empty blocks that can be converted to line breaks. This package was made from Editor.js paragraph tool (https://github.com/editor-js/paragraph).
+Edited text (paragraph) Tool for the [Editor.js] (https://ifmo.su/editor) that allows empty blocks that can then be converted to line breaks. This package was made from Editor.js paragraph tool (https://github.com/editor-js/paragraph) and will have to be maintained and updated for its usage in the SageReactApp!
 
 ## Installation
 
